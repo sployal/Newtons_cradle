@@ -2,6 +2,15 @@
 
 This repository contains a **Simscape model of a Newton's Cradle**, implemented using **MATLAB R2024a** and above . The model simulates the dynamic behavior of a Newton's Cradle with realistic **frictional damping** using the **MATLAB Friction Library**.
 
+## Preview
+
+
+### ⚙️ Control Diagram
+![System Model](images/image%201.png)
+
+### 📌 Newton’s Cradle System Model
+![Control Diagram](images/image%204.png)
+
 ## Features
 
 - Built using MATLAB Simscape for realistic physics-based modeling
@@ -29,14 +38,7 @@ This repository contains a **Simscape model of a Newton's Cradle**, implemented 
     └── control_diagram.png    # Image of the control diagram
 ```
 
-## Preview
 
-
-### ⚙️ Control Diagram
-![System Model](images/image%201.png)
-
-### 📌 Newton’s Cradle System Model
-![Control Diagram](images/image%204.png)
 
 ## Usage
 
